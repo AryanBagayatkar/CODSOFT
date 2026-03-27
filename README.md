@@ -7,7 +7,7 @@
 
 <img width="607" height="775" alt="Task2" src="https://github.com/user-attachments/assets/c09c0847-2c87-4aac-bdbe-e65b7457bd49" />
 
-# Task 3 - Resturent Menu Design
+# Task 3 - restaurant Menu Design
 
 <img width="1119" height="768" alt="Task 3" src="https://github.com/user-attachments/assets/9163bee2-54c6-4108-8779-98e1a3f4003c" />
 
